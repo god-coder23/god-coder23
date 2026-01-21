@@ -1,6 +1,5 @@
-# 💫 About Me:
-A passionate Front-End Developer and Computer Science (AI & ML) student who loves building clean, user-friendly web experiences.<br>I believe in learning by building, staying curious, and improving every single day.<br><br>👨‍💻 About Me :<br><br>🔭 I’m currently working on frontend projects using React & Tailwind CSS<br><br>🤝 I’m looking to collaborate on web development projects & open source<br><br>🧠 I’m looking for help with advanced React patterns & real-world projects<br><br>🌱 I’m currently learning React, JavaScript, Tailwind CSS & AI fundamentals<br><br>💬 Ask me about frontend development, UI design, or learning tech as a student<br><br>⚡ Fun fact: I also create content on YouTube and love storytelling through tech<br><br>🛠️ Tech Stack<br><br>Languages: JavaScript<br><br>Frontend: React.js, HTML, CSS, Tailwind CSS<br><br>Tools: Git, GitHub, VS Code<br><br>Currently Exploring: AI & ML fundamentals<br><br>🌐 Connect With Me<br><br>💼 Portfolio: https://yatneshagarwal.vercel.app<br><br>🔗 LinkedIn: https://www.linkedin.com/in/yatnesh-agarwal-398759376<br><br>🎥 YouTube: @TNPB_Presents
-
+Front-End Developer ⚛️ | CS (AI & ML)
+React • Tailwind • JavaScript
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yatneshagarwal-398759376 ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YatneshA58309) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TNPB_Presents) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yatnesh65@gmail.com) 
