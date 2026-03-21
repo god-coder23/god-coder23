@@ -40,6 +40,7 @@ I love the intersection of design and code — where a polished interface meets 
 - 📺 Click-through to original YouTube pages
 - 💎 **Glassmorphism** UI design with Tailwind CSS
 - ⚡ Built with React.js — deployed on Vercel
+- ✨ With Google Sign In Authentication with logOut (stored in localStorage)
 
 `React.js` `Tailwind CSS` `YouTube API v3` `JavaScript`
 
