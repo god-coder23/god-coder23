@@ -19,7 +19,7 @@ const yatnesh = {
   role:       "Frontend Developer",
   location:   "Pune, Maharashtra 🇮🇳",
   lookingFor: "Frontend / React.js Internship",
-  skills:     ["React.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5", "CSS3"],
+  skills:     ["React.js", "JavaScript (ES6+)", "Tailwind CSS", "HTML5", "CSS3","Firebase realtime databse"],
   apis:       ["REST APIs", "YouTube Data API v3", "OpenWeather API", "Firebase Auth"],
   tools:      ["Git", "GitHub", "VS Code", "Vercel", "Netlify"],
   status:     "🟢 Open to opportunities",
