@@ -18,7 +18,6 @@
 > I love the intersection of design and code — where a polished interface meets solid functionality.
 
 - 🔭 Currently working on improving my **Full Stack** skills
-- 🌱 Learning **TypeScript**, **Supabase**, and **Next.js**
 - 💼 Looking for a **Frontend / React.js Internship**
 - 📍 Based in **Pune, Maharashtra, India 🇮🇳**
 - ⚡ Fun fact: *"First, solve the problem. Then, write the code."*
