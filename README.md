@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=god-coder23&style=flat-square&color=58a6ff)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yatnesh23-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/yatnesh23/)
-[![Portfolio](https://img.shields.io/badge/Live_Projects-4_Deployed-3fb950?style=flat-square&logo=vercel&logoColor=white)](https://github.com/god-coder23)
+[![Portfolio](https://img.shields.io/badge/Live_Projects-5_Deployed-3fb950?style=flat-square&logo=vercel&logoColor=white)](https://github.com/god-coder23)
 
 </div>
 
@@ -18,7 +18,6 @@
 > I love the intersection of design and code — where a polished interface meets solid functionality.
 
 - 🔭 Currently working on improving my **Full Stack** skills
-- 💼 Looking for a **Frontend / React.js Internship**
 - 📍 Based in **Pune, Maharashtra, India 🇮🇳**
 - ⚡ Fun fact: *"First, solve the problem. Then, write the code."*
 
@@ -38,6 +37,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🔥 Firebase & Database
@@ -61,6 +61,25 @@
 ---
 
 ## 🚀 Featured Projects
+
+### 🚖 Javro — Instant Ride Booking
+> Landing page for an upcoming ride-booking startup — Autos, Shared Autos, E-Rickshaws & Bikes
+
+[![Live Demo](https://img.shields.io/badge/🚖_Live_Demo-javro.vercel.app-58a6ff?style=for-the-badge)](https://javro.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/god-coder23/javro)
+
+- 🎨 **Dark premium UI** with gold (`#FFC107`) accents, glow effects, and custom shine animations on cards
+- 📱 **Fully responsive** mobile-first layout with smooth scroll navigation and hamburger menu
+- 📋 **Waitlist form** integrated with Formspree — collects name, phone & email from early adopters
+- 🏪 App Store & Play Store **"Coming Soon"** badges for the upcoming iOS & Android launch
+- ⚡ Built with React 19 + Tailwind CSS 4 + Vite — deployed on Vercel
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Formspree](https://img.shields.io/badge/Formspree-ED5151?style=flat-square&logo=formspree&logoColor=white)
+
+---
 
 ### 🎬 YouTube Clone
 > Real-time video search powered by YouTube Data API v3
@@ -90,7 +109,7 @@
 - 🔐 **Google OAuth** authentication via Firebase
 - 🌍 Search any city — get **live weather + 7-day forecast**
 - 📌 Save and compare **up to 2 cities** simultaneously
-- 💾 Persistent data via **LocalStorage** 
+- 💾 Persistent data via **LocalStorage**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -98,7 +117,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
-
 
 ### 💬 Real-Time Chat App
 > Full-stack chat platform with Google login, live presence, and instant messaging
@@ -118,6 +136,7 @@
 ![Firestore](https://img.shields.io/badge/Firestore-FF6F00?style=flat-square&logo=firebase&logoColor=white)
 
 ---
+
 ### 📝 Notes App
 > Minimal, distraction-free note-taking with auto-save
 
